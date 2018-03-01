@@ -5,7 +5,12 @@ https://gamebuino.com/fr/creations/gamebuino-link-le-multiplayer-sans-fil-pour-g
 
 ## PETIT TEASER  
 * Avec une vitesse de 250 kbits/s a 2Mbits/s on pourrait faire du realtime (check des buffers de réception a chaque frame)
-* Avec l'utilisation de maxi 6 canaux, on peut faire un Multi a 6 joueurs (tour par tour et "pseudo realtime") ou trois joueurs (realtime) via une vraie communication bi-directionnelle si j'arrive a faire une communication sans overhead (par exemple garder quel joueur est sur quel canal), vous avez la possibilité d'utiliser 32 octets (avec un overhead on serait du genre entre 16 et 20 octets
+* Avec l'utilisation de maxi 6 canaux:
+** on peut faire un Multi a 6 joueurs (tour par tour et "pseudo realtime")
+** ou trois joueurs (realtime) via une vraie communication bi-directionnelle
+* si j'arrive a faire une communication sans overhead (par exemple garder quel joueur est sur quel canal):
+** vous avez la possibilité d'utiliser 32 octets
+** avec un overhead on serait du genre entre 16 et 20 octets
 * Pas besoin de forcer le CPU a faire de gros checks de perte de packets (en configurant bien la puce NRF24 s'en occupe)
 * Mode de Téléchargement (DS et 3DS Like)?
 
