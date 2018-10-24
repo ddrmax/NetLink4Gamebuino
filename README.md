@@ -63,9 +63,8 @@ datasheet: https://www.sparkfun.com/datasheets/Components/SMD/nRF24L01Pluss_Prel
 
 ### APERÇU BRANCHEMENT:
 
-![](https://gamebuino.com/froala/uploads/images/1b0f3fbb57a8cd1fe9f94c397aae5c299ad7dd4b.jpg)
-
-![](https://gamebuino.com/froala/uploads/images/a4fe9f4509f3fd16160d5a8f8f322de11cbe826c.jpg)
+![GB0](https://s3.eu-west-3.amazonaws.com/gamebuino/upload/froala/images/1b0f3fbb57a8cd1fe9f94c397aae5c299ad7dd4b.jpg)
+![GB1](https://s3.eu-west-3.amazonaws.com/gamebuino/upload/froala/images/a4fe9f4509f3fd16160d5a8f8f322de11cbe826c.jpg)
 
 Voila pour le moment :)
 
